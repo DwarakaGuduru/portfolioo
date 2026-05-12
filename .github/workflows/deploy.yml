@@ -1,6 +1,5 @@
 
-nam
-e: Deploy Portfolio to GitHub Pages
+name: Deploy Portfolio to GitHub Pages
 
 on:
  push:
